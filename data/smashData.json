@@ -1,0 +1,247 @@
+[
+	{
+		"name": "Bowser",
+		"amazon": "http://www.amazon.com/Bowser-amiibo-Series-nintendo-wii-u/dp/B00PG6Z65M",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-bowser/1371003.p?id=1219489217562&skuId=1371003",
+		"gamestop": "http://www.gamestop.com/accessories/bowser-amiibo-figure/118952",
+		"walmart": "http://www.walmart.com/ip/Bowser-Amiibo-Wii-U/41488609"
+	},
+	{
+		"name": "Captain Falcon",
+		"amazon": "http://www.amazon.com/Captain-Falcon-amiibo-nintendo-wii-u/dp/B00O97ZVJ0",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-captain-falcon/9701109.p?id=1219429258341&skuId=9701109",
+		"gamestop": "http://www.gamestop.com/accessories/captain-falcon-amiibo-figure/117858",
+		"walmart": "http://www.walmart.com/ip/Captain-Falcon-Amiibo-Wii-U/40571999?affilsrc=api&u1&oid=223073.7200&wmlspartner=AKGBlS8SPlM&sourceid=18297028301867536332&affillinktype=14&veh=aff"
+	},
+	{
+		"name": "Charizard",
+		"amazon": "http://www.amazon.com/Charizard-amiibo-Series-nintendo-wii-u/dp/B00V86BJX2",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-super-smash-bros-series-charizard/5713098.p?id=1219656191258&skuId=5713098",
+		"gamestop": "http://www.gamestop.com/accessories/charizard-amiibo-figure/121077",
+		"walmart": "http://www.walmart.com/ip/Charizard-Super-Smash-Bros-Series-Amiibo-Nintendo-WiiU-or-Nintendo-3DS/44606832"
+	},
+	{
+		"name": "Diddy Kong",
+		"amazon": "http://www.amazon.com/Diddy-amiibo-Series-nintendo-wii-u/dp/B00O982JSU",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-diddy-kong/9703107.p?id=1219429256647&skuId=9703107",
+		"gamestop": "http://www.gamestop.com/accessories/diddy-kong-amiibo-figure/117863",
+		"walmart": "http://www.walmart.com/ip/Diddy-Kong-Super-Smash-Bros-Series-Amiibo-Nintendo-Wii-U-or-3DS-Nintendo-Wii-U/40572000"
+	},
+	{
+		"name": "Donkey Kong",
+		"amazon": "http://www.amazon.com/Donkey-amiibo-Series-nintendo-wii-u/dp/B00N4ABP7A",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-donkey-kong/8885009.p?id=1219375115557&skuId=8885009",
+		"gamestop": "http://www.gamestop.com/accessories/donkey-kong-amiibo-figure/117070",
+		"walmart": "http://www.walmart.com/ip/Donkey-Kong-Amiibo-Wii-U/24672899"
+	},
+	{
+		"name": "Fox",
+		"amazon": "http://www.amazon.com/amiibo-Super-Smash-nintendo-wii-u/dp/B00N4ABODK",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-fox/8885027.p?id=1219375116445&skuId=8885027",
+		"gamestop": "http://www.gamestop.com/accessories/fox-amiibo-figure/117065",
+		"walmart": "http://www.walmart.com/ip/Fox-Amiibo-Wii-U/38662156"
+	},
+	{
+		"name": "Ike",
+		"amazon": "http://www.amazon.com/amiibo-Super-Smash-nintendo-wii-u/dp/B00PG7M95G",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-ike/1374019.p?id=1219489217564&skuId=1374019",
+		"gamestop": "http://www.gamestop.com/accessories/ike-amiibo-figure/118948",
+		"walmart": "http://www.walmart.com/ip/Ike-Amiibo-Wii-U/41488612"
+	},
+	{
+		"name": "King DeDeDe",
+		"amazon": "http://www.amazon.com/Dedede-amiibo-Series-nintendo-wii-u/dp/B00PG6ZDPK",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-king-dedede/1377007.p?id=1219489217566&skuId=1377007",
+		"gamestop": "",
+		"walmart": "http://www.walmart.com/ip/AMIIBO-KING-DEDEDE-Wii-U/41488614?affilsrc=api&u1=&oid=223073.7200&wmlspartner=AKGBlS8SPlM&sourceid=40949701141883350269&affillinktype=14&veh=aff"
+	},
+	{
+		"name": "Kirby",
+		"amazon": "http://www.amazon.com/Kirby-amiibo-Series-nintendo-wii-u/dp/B00N4ABV10",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-kirby/8887007.p?id=1219375116701&skuId=8887007",
+		"gamestop": "http://www.gamestop.com/accessories/kirby-amiibo-figure/117066",
+		"walmart": "http://www.walmart.com/ip/Kirby-Amiibo-Wii-U/35284544"
+	},
+	{
+		"name": "Link",
+		"amazon": "http://www.amazon.com/amiibo-Super-Smash-nintendo-wii-u/dp/B00N4ABVOM",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-link/8885018.p?id=1219375112044&skuId=8885018",
+		"gamestop": "http://www.gamestop.com/accessories/link-amiibo-figure/117063",
+		"walmart": "http://www.walmart.com/ip/Nintendo-NVLCAAAE-Amiibo-Link-Wiiu/40571985?affp1=VHcC4PqKrU5-K4sP9Y_fZhxHP79QpEcQtM-izpNyKrU&affilsrc=api&u1=&oid=223073.7200&wmlspartner=AKGBlS8SPlM&sourceid=19176781232743938261&affillinktype=14&veh=aff"
+	},
+	{
+		"name": "Little Mac",
+		"amazon": "http://www.amazon.com/Little-amiibo-Series-nintendo-wii-u/dp/B00O97ZVJA",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-little-mac/9705105.p?id=1219429256252&skuId=9705105",
+		"gamestop": "http://www.gamestop.com/accessories/little-mac-amiibo-figure/117860",
+		"walmart": "http://www.walmart.com/ip/Little-Mac-Amiibo-Wii-U/40571996?affilsrc=api&u1=&oid=223073.7200&wmlspartner=AKGBlS8SPlM&sourceid=06552035491788428170&affillinktype=14&veh=aff"
+	},
+	{
+		"name": "Lucario",
+		"amazon": "http://www.amazon.com/Lucario-amiibo-Super-Nintendo-Wii-U/dp/B00SX51GAM",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-super-smash-bros-lucario/4566803.p?id=1219769555987&skuId=4566803",
+		"gamestop": "http://www.gamestop.com/accessories/lucario-amiibo-figure/126339",
+		"walmart": "http://www.walmart.com/ip/47767299"
+	},
+	{
+		"name": "Lucina",
+		"amazon": "http://www.amazon.com/Lucina-amiibo-Super-nintendo-wii-u/dp/B00V86BJV4",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-super-smash-bros-series-lucina/5711027.p?id=1219656191463&skuId=5711027",
+		"gamestop": "",
+		"walmart": "http://www.walmart.com/ip/44606833?u1=&oid=223073.1&wmlspartner=jgNbm4ybi9s&sourceid=13890538700120424705&affillinktype=10&veh=aff"
+	},
+	{
+		"name": "Luigi",
+		"amazon": "http://www.amazon.com/Luigi-amiibo-Series-nintendo-wii-u/dp/B00O97ZWVC",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-luigi/9704106.p?id=1219430519284&skuId=9704106",
+		"gamestop": "http://www.gamestop.com/accessories/luigi-amiibo-figure/117861",
+		"walmart": "http://www.walmart.com/ip/Amiibo-Luigi/47060117"
+	},
+	{
+		"name": "Mario",
+		"amazon": "http://www.amazon.com/Mario-amiibo-Series-nintendo-wii-u/dp/B00N4ABMG4",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-mario/8883001.p?id=1219375112983&skuId=8883001",
+		"gamestop": "http://www.gamestop.com/accessories/mario-amiibo-figure/117072",
+		"walmart": "http://www.walmart.com/ip/Mario-Amiibo-Wii-U/40571988"
+	},
+	{
+		"name": "Marth",
+		"amazon": "http://www.amazon.com/Marth-amiibo-Super-nintendo-wii-u/dp/B00N4ABOXU",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-marth/8887016.p?id=1219375119687&skuId=8887016",
+		"gamestop": "http://www.gamestop.com/accessories/marth-amiibo-figure/117060",
+		"walmart": "http://www.walmart.com/ip/Marth-Amiibo-Wii-U/40571987?affilsrc=api&u1=&oid=223073.7200&wmlspartner=AKGBlS8SPlM&sourceid=21394571180456089226&affillinktype=14&veh=aff"
+	},
+	{
+		"name": "Mega Man",
+		"amazon": "http://www.amazon.com/amiibo-Super-Smash-nintendo-wii-u/dp/B00PG6ZCT2",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-mega-man/1378006.p?id=1219489217563&skuId=1378006",
+		"gamestop": "",
+		"walmart": "http://www.walmart.com/ip/Mega-Man-Amiibo-Wii-U/41488613?affilsrc=api&u1=&oid=223073.7200&wmlspartner=AKGBlS8SPlM&sourceid=21795138841452212127&affillinktype=14&veh=aff"
+	},
+	{
+		"name": "Meta Knight",
+		"amazon": "http://www.amazon.com/Knight-Wii-U-NEW-3DS-XL/dp/B00PIEHUD8",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-meta-knight/1375009.p?id=1219489217565&skuId=1375009",
+		"gamestop": "",
+		"walmart": ""
+	},
+	{
+		"name": "Ness",
+		"amazon": "http://www.amazon.com/Ness-amiibo-Super-Smash-Wii-U/dp/B00YOB78HE",
+		"bestbuy": "",
+		"gamestop": "http://www.gamestop.com/accessories/ness-amiibo-figure-only-at-gamestop/121035",
+		"walmart": ""
+	},
+	{
+		"name": "Pac-Man",
+		"amazon": "http://www.amazon.com/Pac-Man-amiibo-Super-nintendo-wii-u/dp/B00V86BRK2",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-super-smash-bros-series-pac-man/5710106.p?id=1219656188650&skuId=5710106",
+		"gamestop": "http://www.gamestop.com/accessories/pac-man-amiibo-figure/121078",
+		"walmart": "http://www.walmart.com/ip/Pac-Man-Super-Smash-Bros-Series-Amiibo-Nintendo-WiiU-or-Nintendo-3DS/44606835?u1=&oid=223073.1&wmlspartner=AKGBlS8SPlM&sourceid=05842592323647094033&affillinktype=10&veh=aff"
+	},
+	{
+		"name": "Pikachu",
+		"amazon": "http://www.amazon.com/Pikachu-amiibo-Super-nintendo-wii-u/dp/B00N4ABSLS",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-pikachu/8886017.p?id=1219375112046&skuId=8886017",
+		"gamestop": "http://www.gamestop.com/accessories/pikachu-amiibo-figure/117068",
+		"walmart": "http://www.walmart.com/ip/Pikachu-Super-Smash-Bros-Series-Amiibo-Nintendo-Wii-U-or-3DS-Nintendo-Wii-U/40572001"
+	},
+	{
+		"name": "Pit",
+		"amazon": "http://www.amazon.com/amiibo-Super-Smash-nintendo-wii-u/dp/B00O97ZYP6",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-pit/9700119.p?id=1219429258343&skuId=9700119",
+		"gamestop": "http://www.gamestop.com/accessories/pit-amiibo-figure/117859",
+		"walmart": "http://www.walmart.com/ip/Pit-Amiibo-Wii-U/40571991?affilsrc=api&u1=&oid=223073.7200&wmlspartner=AKGBlS8SPlM&sourceid=20706897513625721410&affillinktype=14&veh=aff"
+	},
+	{
+		"name": "Princess Peach",
+		"amazon": "http://www.amazon.com/Peach-amiibo-Super-nintendo-wii-u/dp/B00N4ABT1W",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-peach/8884019.p?id=1219375119618&skuId=8884019",
+		"gamestop": "http://www.gamestop.com/accessories/princess-peach-amiibo-figure/117071",
+		"walmart": "http://www.walmart.com/ip/Peach-Amiibo-Wii-U/35284557"
+	},
+	{
+		"name": "Robin",
+		"amazon": "http://www.amazon.com/Nintendo-Robin-amiibo-Super-wii-u/dp/B00V86BRHU",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-super-smash-bros-series-robin/5712035.p?id=1219656191326&skuId=5712035",
+		"gamestop": "",
+		"walmart": "http://www.walmart.com/ip/ip/ip/44606828?u1=&oid=223073.1&wmlspartner=AKGBlS8SPlM&sourceid=31432020781711785083&affillinktype=10&veh=aff"
+	},
+	{
+		"name": "Rosalina",
+		"amazon": "http://www.amazon.com/Rosalina-amiibo-Super-Nintendo-Wii-U/dp/B00SWVAFTA",
+		"bestbuy": "",
+		"gamestop": "",
+		"walmart": ""
+	},
+	{
+		"name": "Samus",
+		"amazon": "http://www.amazon.com/Samus-amiibo-Super-nintendo-wii-u/dp/B00N49EEO2",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-samus/8885036.p?id=1219375119549&skuId=8885036",
+		"gamestop": "http://www.gamestop.com/accessories/samus-amiibo-figure/117061",
+		"walmart": "http://www.walmart.com/ip/Samus-Amiibo-Wii-U/38662157"
+	},
+	{
+		"name": "Sheik",
+		"amazon": "http://www.amazon.com/Sheik-amiibo-Super-nintendo-wii-u/dp/B00PG6ZAZ8",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-sheik/1376008.p?id=1219489217567&skuId=1376008",
+		"gamestop": "http://www.gamestop.com/accessories/sheik-amiibo-figure/118951",
+		"walmart": "http://www.walmart.com/ip/Sheik-Amiibo-Wii-U/41488608?affilsrc=api&u1=&oid=223073.7200&wmlspartner=AKGBlS8SPlM&sourceid=33344777763379693450&affillinktype=14&veh=aff"
+	},
+	{
+		"name": "Shulk",
+		"amazon": "http://www.amazon.com/Shulk-amiibo-Super-Smash-Wii-U/dp/B00QGBNLUS",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-super-smash-bros-shulk/4567402.p?id=1219769553791&skuId=4567402",
+		"gamestop": "http://www.gamestop.com/accessories/shulk-amiibo-figure-only-at-gamestop/118681",
+		"walmart": "http://www.walmart.com/ip/48277218"
+	},
+	{
+		"name": "Sonic",
+		"amazon": "http://www.amazon.com/Sonic-amiibo-Super-nintendo-wii-u/dp/B00PG6ZBTS",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-sonic/1379005.p?id=1219489217559&skuId=1379005",
+		"gamestop": "http://www.gamestop.com/accessories/sonic-amiibo-figure/118955",
+		"walmart": "http://www.walmart.com/ip/AMIIBO-SONIC-Wii-U/41488611?affilsrc=api&u1=&oid=223073.7200&wmlspartner=AKGBlS8SPlM&sourceid=15470451344137050841&affillinktype=14&veh=aff"
+	},
+	{
+		"name": "Toon Link",
+		"amazon": "http://www.amazon.com/amiibo-Super-Smash-nintendo-wii-u/dp/B00PG6Z9VI",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-toon-link/1373001.p?id=1219489217560&skuId=1373001",
+		"gamestop": "http://www.gamestop.com/accessories/toon-link-amiibo-figure/118956",
+		"walmart": "http://www.walmart.com/ip/Toon-Link-Amiibo-Wii-U/41488610?affilsrc=api&u1=&oid=223073.7200&wmlspartner=AKGBlS8SPlM&sourceid=08726727882468714472&affillinktype=14&veh=aff"
+	},
+	{
+		"name": "Villager",
+		"amazon": "http://www.amazon.com/Villager-amiibo-Super-nintendo-wii-u/dp/B00N4ABMUA",
+		"bestbuy": "http://www.bestbuy.com/site/amiibo-figure-villager-nintendo-wii-u/8886008.p?id=1219375115037&skuId=8886008",
+		"gamestop": "http://www.gamestop.com/accessories/villager-amiibo-figure/117059",
+		"walmart": "http://www.walmart.com/ip/Villager-Super-Smash-Bros-Series-Amiibo-Nintendo-Wii-U-or-3DS-Nintendo-Wii-U/40571989"
+	},
+	{
+		"name": "Wario",
+		"amazon": "http://www.amazon.com/Wario-amiibo-Super-nintendo-wii-u/dp/B00V86C4LS",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-super-smash-bros-series-wario/5715023.p?id=1219656190864&skuId=5715023",
+		"gamestop": "http://www.gamestop.com/accessories/wario-amiibo-figure/121076",
+		"walmart": "http://www.walmart.com/ip/44606834"
+	},
+	{
+		"name": "Wii Fit Trainer",
+		"amazon": "http://www.amazon.com/Trainer-amiibo-Super-Smash-nintendo-u/dp/B00N49EERY",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-wii-fit-trainer/8885072.p?id=1219375117936&skuId=8885072",
+		"gamestop": "http://www.gamestop.com/accessories/wii-fit-trainer-amiibo-figure/117064",
+		"walmart": "http://www.walmart.com/ip/Wii-Fit-Trainer-Amiibo-Wii-U/40571990?affilsrc=api&u1=&oid=223073.7200&wmlspartner=AKGBlS8SPlM&sourceid=08991867070779390517&affillinktype=14&veh=aff"
+	},
+	{
+		"name": "Yoshi",
+		"amazon": "http://www.amazon.com/Yoshi-amiibo-Super-nintendo-wii-u/dp/B00N4ABT1C",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-yoshi/8884037.p?id=1219375114064&skuId=8884037",
+		"gamestop": "http://www.gamestop.com/accessories/yoshi-amiibo-figure/117069",
+		"walmart": ""
+	},
+	{
+		"name": "Zelda",
+		"amazon": "http://www.amazon.com/Zelda-amiibo-Super-nintendo-wii-u/dp/B00O92ONBM",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-zelda/9702117.p?id=1219429258340&skuId=9702117",
+		"gamestop": "http://www.gamestop.com/accessories/zelda-amiibo-figure/117862",
+		"walmart": "http://www.walmart.com/ip/Zelda-Amiibo-Wii-U/40571997"
+	}
+]

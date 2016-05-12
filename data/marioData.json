@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Bowser",
+		"amazon": "http://www.amazon.com/Bowser-amiibo-Super-Mario-Wii-U/dp/B00S7O6RJO",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-bowser/3211028.p?id=1219573004124&skuId=3211028",
+		"gamestop": "http://www.gamestop.com/accessories/bowser-super-mario-amiibo-figure/120249",
+		"walmart": "http://www.walmart.com/ip/Nintendo-NVLCABAF-Super-Mario-Series-Amiibo-Bowser/43086183"
+
+	},
+	{
+		"name": "Luigi",
+		"amazon": "http://www.amazon.com/Luigi-amiibo-Super-Mario-Wii-U/dp/B00S7O6RG2",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-luigi/3212018.p?id=1219573004123&skuId=3212018",
+		"gamestop": "http://www.gamestop.com/accessories/luigi-super-mario-amiibo-figure/120248",
+		"walmart": "http://www.walmart.com/ip/Nintendo-NVLCABAB-Super-Mario-Series-Amiibo-Luigi/43086181"
+
+	},
+	{
+		"name": "Mario Gold",
+		"amazon": "http://www.amazon.com/Mario-amiibo-Super-Nintendo-Wii-U/dp/B00U6Y7ISC",
+		"bestbuy": "",
+		"gamestop": "",
+		"walmart": "http://www.walmart.com/ip/i/43814229?u1=&oid=223073.1&wmlspartner=AKGBlS8SPlM&sourceid=16609182621385816727&affillinktype=10&veh=aff"
+
+	},
+	{
+		"name": "Mario",
+		"amazon": "http://www.amazon.com/Mario-amiibo-nintendo-wii-u/dp/B00UL0BMA6",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-super-mario-series-mario/4970014.p?id=1219645622184&skuId=4970014",
+		"gamestop": "http://www.gamestop.com/accessories/mario-super-mario-amiibo-figure/120788",
+		"walmart": "http://www.walmart.com/ip/Nintendo-NVLCABAA-Supermario-Amiibo-Mario-Wiiu/44464284"
+
+	},
+	{
+		"name": "Peach",
+		"amazon": "http://www.amazon.com/Peach-amiibo-Super-Mario-Wii-U/dp/B00S7O6QWM",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-peach/3215111.p?id=1219573004129&skuId=3215111",
+		"gamestop": "http://www.gamestop.com/accessories/peach-super-mario-amiibo-figure/120250",
+		"walmart": "http://www.walmart.com/ip/Nintendo-NVLCABAC-Super-Mario-Series-Amiibo-Peach/43086180"
+
+	},
+	{
+		"name": "Toad",
+		"amazon": "http://www.amazon.com/Toad-amiibo-Super-Mario-Wii-U/dp/B00S7O6R9E",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-toad/3214007.p?id=1219573004127&skuId=3214007",
+		"gamestop": "http://www.gamestop.com/accessories/toad-super-mario-amiibo-figure/120252",
+		"walmart": "http://www.walmart.com/ip/Nintendo-NVLCABAE-Supermario-Amiibo-Toad-Wiiu/43086184"
+
+	},
+	{
+		"name": "Yoshi",
+		"amazon": "http://www.amazon.com/Yoshi-amiibo-Super-Mario-Wii-U/dp/B00S7O6R62",
+		"bestbuy": "http://www.bestbuy.com/site/nintendo-amiibo-figure-yoshi/3213017.p?id=1219573004128&skuId=3213017",
+		"gamestop": "http://www.gamestop.com/accessories/yoshi-super-mario-amiibo-figure/120251",
+		"walmart": "http://www.walmart.com/ip/Amiibo-Super-Mario-Series-Yoshi-Wii-U/43086182"
+
+	}
+]
